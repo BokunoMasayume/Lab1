@@ -1,5 +1,9 @@
 ﻿package test.tttest;
-//修改2-5
+<<<<<<< HEAD
+
+=======
+//修改2-1
+>>>>>>> C4
 //package Graphoutput;
 //GraphViz.java - a simple API to call dot from Java programs
 /*$Id$*/

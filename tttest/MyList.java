@@ -1,9 +1,13 @@
 ﻿package test.tttest;
-//修改2-7
+<<<<<<< HEAD
+
+=======
+//修改2-3
+>>>>>>> C4
 import java.util.Random;
 import java.util.Scanner;
 import java.io.*;
-
+//修改2
 public class MyList{ //int链表
     class MyNode{ //节点
       int perVer;

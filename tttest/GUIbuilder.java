@@ -1,12 +1,16 @@
 ﻿package test.tttest;
-//修改2-6
+<<<<<<< HEAD
+
+=======
+//修改2-2
+>>>>>>> C4
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import javax.swing.*;
 import java.awt.event.*;
 import java.net.URL;
 import java.io.*;
-
+//修改3
 import javax.imageio.ImageIO;
 
 public class GUIbuilder extends JFrame implements ActionListener{
