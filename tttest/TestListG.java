@@ -1,5 +1,5 @@
-package test.tttest;
-
+﻿package test.tttest;
+//修改2-4
 import java.util.Random;
 import java.io.*;
 import java.awt.*;
@@ -7,6 +7,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.Scanner;
 import java.io.*;
+//修改1
 public class TestListG {
 
   public static final int INFINITE = 2147483647;
