@@ -1,7 +1,11 @@
 ﻿package test.tttest;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
-//修改2-2
+
+>>>>>>> B1
+=======
+
 >>>>>>> C4
 import java.awt.*;
 import java.awt.image.BufferedImage;

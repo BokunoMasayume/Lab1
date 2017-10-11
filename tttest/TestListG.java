@@ -1,5 +1,13 @@
 ﻿package test.tttest;
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> C4
+>>>>>>> B1
 import java.util.Random;
 import java.io.*;
 import java.awt.*;

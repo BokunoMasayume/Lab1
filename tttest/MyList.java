@@ -1,7 +1,11 @@
 ﻿package test.tttest;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
-//修改2-3
+
+>>>>>>> B1
+=======
+
 >>>>>>> C4
 import java.util.Random;
 import java.util.Scanner;
