@@ -1,5 +1,5 @@
-package test.tttest;
-
+﻿package test.tttest;
+//修改2-8
 import java.util.Random;
 import java.io.*;
 import java.awt.*;
