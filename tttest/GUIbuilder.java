@@ -1,5 +1,5 @@
-package test.tttest;
-
+﻿package test.tttest;
+//修改2-7-2
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import javax.swing.*;
