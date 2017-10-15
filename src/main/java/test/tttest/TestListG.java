@@ -2,7 +2,7 @@ package test.tttest;
 
 import java.util.Random;
 import java.io.*;
-/*********B1 may conf change*******/
+//one of four modified files
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
