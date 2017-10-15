@@ -2,7 +2,9 @@ package test.tttest;
 
 import java.util.Random;
 import java.io.*;
+<<<<<<< HEAD
 //one of 4 modify files
+>>>>>>> C4
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
